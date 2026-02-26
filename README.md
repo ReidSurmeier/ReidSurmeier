@@ -11,11 +11,7 @@
 <td align="center">
 <a href="https://reidsurmeier.wtf">
 <strong>Visit my personal website</strong>
-<br /><br /><br />
-<p>
-<img alt="website" height="80" src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/main/images/website.gif">
 </a>
-</p>
 </td>
 
 <td align="center">
