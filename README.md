@@ -9,8 +9,8 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
+<a href="https://www.are.na/reid-surmeier">
+<strong>Are.na</strong>
 <br />
 <br />
 <p>
