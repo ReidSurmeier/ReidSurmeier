@@ -9,18 +9,6 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://github.com/ReidSurmeier">
-<strong>Visit my personal website</strong>
-<br />
-<br />
-<br />
-<p>
-<img alt="website" height="80" src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/main/images/website.gif">
-</a>
-</p>
-</td>
-
-<td align="center">
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
 <strong>Listen to cool music</strong>
 <br />
