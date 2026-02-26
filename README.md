@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/ReidSurmeier/ReidSurmeier/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/ReidSurmeier/ReidSurmeier/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Reid and I like 3D" src="images/personal_note.svg" />
@@ -57,17 +57,17 @@
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/main/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/ReidSurmeier/count.svg)
 
 
-<img src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<img src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/main/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/main/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
