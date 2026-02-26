@@ -15,7 +15,7 @@
 <br />
 <br />
 <p>
-<img alt="DSI" height="80" src="images/dsi.jpg">
+<img alt="website" height="80" src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/main/images/website.gif">
 </a>
 </p>
 </td>
