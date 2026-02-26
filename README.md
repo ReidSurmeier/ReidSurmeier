@@ -36,10 +36,12 @@
 </tr>
 </table>
 
-<!-- Extra image -->
+<!-- Extra images -->
 <div align="center">
   <br />
   <img height="200" alt="frogmech" src="images/frogmech.webp" />
+  &nbsp;&nbsp;
+  <img height="200" alt="pikachu" src="images/pikachu.gif" />
   <br />
 </div>
 
