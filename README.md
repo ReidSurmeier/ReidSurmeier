@@ -6,23 +6,21 @@
 </div>
 
 <!-- Social -->
-<table width="100%" align="center">
+<table width="100%" align="center" cellpadding="30" cellspacing="0">
 <tr>
-<td align="center">
+<td align="center" valign="middle" width="50%">
 <a href="https://reidsurmeier.wtf">
 <strong>Visit my personal website</strong>
 </a>
 </td>
-
-<td align="center">
+<td align="center" valign="middle" width="50%">
 <a href="https://www.are.na/reid-surmeier">
 <strong>Are.na</strong>
-<br />
-<br />
-<p>
-<img height="100" alt="Music" src="images/tumblr.gif"> 
 </a>
-</p>
+<br /><br />
+<a href="https://www.are.na/reid-surmeier">
+<img height="100" alt="Are.na" src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/main/images/tumblr.gif" />
+</a>
 </td>
 </tr>
 </table>
