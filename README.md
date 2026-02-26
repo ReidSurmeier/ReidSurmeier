@@ -1,7 +1,7 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img height="50" alt="My name is Reid and I like 3D" src="images/personal_note.png" />
   <br />
+  <p>My name is Reid and I like websites /) /) ( • - •) 𖥔 ݁ ˖𓂃.☘︎︎ ݁˖</p>
   <br />
 </div>
 
@@ -10,7 +10,7 @@
 <tr>
 <td align="center" valign="middle" width="50%">
 <a href="https://reidsurmeier.wtf">
-<strong>Visit my personal website</strong>
+<strong>Visit my personal<br />website</strong>
 </a>
 </td>
 <td align="center" valign="middle" width="50%">
