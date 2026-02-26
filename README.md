@@ -1,8 +1,8 @@
 <!-- "Hero" Header -->
 <div align="center">
   <br />
-  <p>My name is Reid and I like websites /) /) ( • - •) 𖥔 ݁ ˖𓂃.☘︎︎ ݁˖</p>
-  <br />
+  <img height="50" alt="My name is Reid and I like websites" src="https://raw.githubusercontent.com/ReidSurmeier/ReidSurmeier/main/images/personal_note.png" />
+  <br /><br />
 </div>
 
 <!-- Social -->
