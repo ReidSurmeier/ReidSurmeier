@@ -10,7 +10,7 @@
 <tr>
 <td align="center" valign="middle" width="50%">
 <a href="https://reidsurmeier.wtf">
-<strong>Visit my personal<br />website</strong>
+<strong>Visit my<br />personal website</strong>
 </a>
 </td>
 <td align="center" valign="middle" width="50%">
